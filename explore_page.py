@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import streamlit as st
-import sklearn
 from sklearn.datasets import load_breast_cancer
 
 def show_explore_page():
