@@ -4,10 +4,11 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import streamlit as st
-from sklearn.datasets import load_breast_cancer
+
 
 def show_explore_page():
     # load data set
+    from sklearn.datasets import load_breast_cancer
     breast_cancer_df= load_breast_cancer()
     df= pd.DataFrame(breast_cancer_df.data,columns=breast_cancer_df.feature_names)
     df['diagnosis']= breast_cancer_df.target
