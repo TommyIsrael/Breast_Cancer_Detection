@@ -1,5 +1,5 @@
 # Breast_Cancer_Detection
-**Detailed Description published on Linkedin** 
+**Detailed Description published on Linkedin** https://www.linkedin.com/pulse/breast-cancer-dectection-using-mechine-learning-israel-tommy
 
 **Functionalities of deployed working app:**
 https://tommyisrael-breast-cancer-detection-app-a1cv41.streamlitapp.com/
